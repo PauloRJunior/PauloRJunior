@@ -1,6 +1,6 @@
 # 📜 Sobre mim
 
-Engenheiro Eletricista e atualmente aluno de mestrado de Inteligência Artificial na Universidade Tecnológica Federal do Paraná, campus Cornéli Procópio/PR. Atuei por 2 anos no setor elétrico, como estagiário e técnico de operações consequentemente, na Neoenergia Elektro em Campinas/SP. Após a experiência no setor elétrico, fiz uma transição de carreira para a área de dados, atuando por 3 anos como Desenvolvedor Power BI e Analista de Business Intelligence em empresas de Consultoria. Atualmente atuo como Analista de Dados na Totvs CRM e Residente de Inteligência Artificial no HUB de Inteligência Artificial no SENAI de Londrina/PR. 
+Engenheiro Eletricista e atualmente aluno de mestrado de Inteligência Artificial na Universidade Tecnológica Federal do Paraná, campus Cornéli Procópio/PR. Atuei por 2 anos no setor elétrico, como estagiário e posteriormente como técnico de operações, na Neoenergia Elektro em Campinas/SP. Após a experiência no setor elétrico, fiz uma transição de carreira para a área de dados, atuando por 3 anos como Desenvolvedor Power BI e Analista de Business Intelligence em empresas de Consultoria. Atualmente atuo como Analista de Dados na Totvs CRM e Residente de Inteligência Artificial no HUB de Inteligência Artificial no SENAI de Londrina/PR. 
 
 
 ## 📚 Conhecimentos
