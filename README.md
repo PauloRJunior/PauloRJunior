@@ -1,12 +1,11 @@
 # 📜 Sobre mim
 
-Engenheiro Eletricista e atualmente aluno de mestrado de Inteligência Artificial na Universidade Tecnológica Federal do Paraná, campus Cornéli Procópio/PR. Atuei por 2 anos no setor elétrico, como estagiário e posteriormente como técnico de operações, na Neoenergia Elektro em Campinas/SP. Após a experiência no setor elétrico, fiz uma transição de carreira para a área de dados, atuando por 3 anos como Desenvolvedor Power BI e Analista de Business Intelligence em empresas de Consultoria. Atualmente atuo como Analista de Dados na Totvs CRM e Residente de Inteligência Artificial no HUB de Inteligência Artificial no SENAI de Londrina/PR. 
+Engenheiro Eletricista e atualmente aluno de mestrado de Inteligência Artificial na Universidade Tecnológica Federal do Paraná, campus Cornéli Procópio/PR. Atuei por 2 anos no setor elétrico, como estagiário e posteriormente como técnico de operações, na Neoenergia Elektro em Campinas/SP. Após a experiência no setor elétrico, fiz uma transição de carreira para a área de dados, atuando por 3 anos como Desenvolvedor Power BI,Analista de Business Intelligence e Analista de Dados. Atualmente atuo como Cientista de Dados Residente no HUB de Inteligência Artificial no SENAI de Londrina/PR. 
 
 
 ## 📚 Conhecimentos
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Visualização de Dados
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
