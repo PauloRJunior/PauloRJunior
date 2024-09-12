@@ -1,6 +1,6 @@
 # 📜 Sobre mim
 
-Engenheiro Eletricista e atualmente aluno de mestrado de Inteligência Artificial na Universidade Tecnológica Federal do Paraná, campus Cornéli Procópio/PR. Atuei por 2 anos no setor elétrico, como estagiário e posteriormente como técnico de operações, na Neoenergia Elektro em Campinas/SP. Após a experiência no setor elétrico, fiz uma transição de carreira para a área de dados, atuando por 3 anos como Desenvolvedor Power BI,Analista de Business Intelligence e Analista de Dados. Atualmente atuo como Cientista de Dados Residente no HUB de Inteligência Artificial no SENAI de Londrina/PR. 
+Engenheiro Eletricista e atualmente aluno de mestrado de Inteligência Artificial na Universidade Tecnológica Federal do Paraná, campus Cornéli Procópio/PR. Atuei por 2 anos no setor elétrico, como estagiário e posteriormente como técnico de operações, na Neoenergia Elektro em Campinas/SP. Após a experiência no setor elétrico, fiz uma transição de carreira para a área de dados, atuando por 3 anos como Desenvolvedor Power BI,Analista de Business Intelligence e Analista de Dados. Atualmente atuo como Cientista de Dados no HUB de Inteligência Artificial no SENAI de Londrina/PR e Analista de Dados na Rede Itaú. 
 
 
 ## 📚 Conhecimentos
