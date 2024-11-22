@@ -1,11 +1,16 @@
 # 📜 Sobre mim
 
-Engenheiro Eletricista e atualmente aluno de mestrado de Inteligência Artificial na Universidade Tecnológica Federal do Paraná, campus Cornéli Procópio/PR. Atuei por 2 anos no setor elétrico, como estagiário e posteriormente como técnico de operações, na Neoenergia Elektro em Campinas/SP. Após a experiência no setor elétrico, fiz uma transição de carreira para a área de dados, atuando por 3 anos como Desenvolvedor Power BI,Analista de Business Intelligence e Analista de Dados. Atualmente atuo como Cientista de Dados no HUB de Inteligência Artificial no SENAI de Londrina/PR e Analista de Dados na Rede Itaú. 
+Engenheiro Eletricista e atualmente aluno de mestrado de Inteligência Artificial na Universidade Tecnológica Federal do Paraná, campus Cornéli Procópio/PR. Atuei por 2 anos no setor elétrico, como estagiário e posteriormente como técnico de operações, na Neoenergia Elektro em Campinas/SP. Após a experiência no setor elétrico, fiz uma transição de carreira para a área de dados, atuando há mais de  3 anos Analista de Business Intelligence, Analista de Dados e Ciêntista de dados.   
+
+Atualmente atuo como Cientista de Dados III de Cobrança na Cogna, maior grupo de educação do Brasil.
 
 
 ## 📚 Conhecimentos
 ### Linguagens
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
+
+
 
 ### Visualização de Dados
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -21,11 +26,17 @@ Engenheiro Eletricista e atualmente aluno de mestrado de Inteligência Artificia
 ### Data Science
 ![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=fff&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+
+## Nuvem
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ### Outros
